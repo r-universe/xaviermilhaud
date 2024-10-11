@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "admix"]
 	path = admix
-	url = https://github.com/xaviermilhaud/admix
+	url = https://github.com/xaviermilhaud/admix-rpackage
